@@ -1,0 +1,14 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+# * text=auto
+
+*.c binary
+*.h binary
+*.S binary
+*.exe binary
+*.bat binary
+*.lds binary
+*.cfg binary
+*.dll binary
+*.mk binary
+makefile binary
+

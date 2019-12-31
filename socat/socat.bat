@@ -1,0 +1,1 @@
+socat -d OPEN:/dev/ttyS15 TCP-LISTEN:3333
